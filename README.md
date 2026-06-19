@@ -26,4 +26,3 @@ Algorithm used:
 
 - Linear Regression
 
-## Project Structure
